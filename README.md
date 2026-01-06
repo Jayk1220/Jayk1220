@@ -2,7 +2,7 @@
 
 # 🔍김 재 호 🔎
 
-- 👋안녕하세요. AI 개발자 지원자 김재호 입니다**
+- 👋안녕하세요. AI 개발자 지원자 김재호 입니다
 - 🔥컨택을 원하시면 kimjh4462@naver.com으로 연락주세요.
 
 # 🔗 LINK
@@ -10,7 +10,7 @@
 
 [![Study Record](https://img.shields.io/badge/Study_Record-0000FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayk1220/ai)
 
-[![1차프로젝트](https://img.shields.io/badge/1st_PROJECT[프로젝트명]-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayk1220/1stProject)
+[![1차프로젝트](https://img.shields.io/badge/1st_PROJECT[뉴스 감성분석 기반 산업 리스크 조기 탐지 시스템]-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayk1220/1stTeamProject)
 
 [![1차프로젝트](https://img.shields.io/badge/2nd_Project[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Jayk1220/1stProject)
 
